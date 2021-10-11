@@ -1,0 +1,2 @@
+# Equatorcoco.github.io
+template
